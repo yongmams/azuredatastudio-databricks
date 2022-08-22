@@ -2,9 +2,9 @@
 	"name": "azuredatastudio-databricks",
 	"displayName": "azuredatastudio-databricks",
 	"description": "",
-	"publisher": "YongMaMs",
+	"publisher": "yongmams",
 	"version": "0.0.1",
-	"repository": "a",
+	"repository": "https://github.com/yongmams/azuredatastudio-databricks",
 	"engines": {
 		"vscode": "^1.39.0",
 		"azdata": "*"
